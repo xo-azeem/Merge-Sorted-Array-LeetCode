@@ -26,5 +26,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Merge-Sorted-Array-LeetCode/assets/171427226/7814693d-ab35-4d25-a42f-6afbdaaf8aca)
 
-  Time complexity: O(nlog(n)).</br>Space complexity: O(1).
+  Time complexity: O(nlogn).</br>Space complexity: O(1).
 </div>
